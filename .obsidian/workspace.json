@@ -6,7 +6,6 @@
       {
         "id": "adc5a2e99e7a4b35",
         "type": "tabs",
-        "dimension": 60.27918781725889,
         "children": [
           {
             "id": "765d4a3357e2e776",
@@ -14,43 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Билет №1.md",
+                "file": "Билет №3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Билет №1"
-            }
-          },
-          {
-            "id": "cc35c5c2b2d57fbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без названия.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Без названия"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f8757fb9953e8c5f",
-        "type": "tabs",
-        "dimension": 39.72081218274111,
-        "children": [
-          {
-            "id": "993f06e50d28ac16",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Билет №3"
             }
           }
         ]
@@ -200,10 +168,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "765d4a3357e2e776",
+  "active": "7e08d780d9deb1e4",
   "lastOpenFiles": [
-    "Без названия.md",
+    "Билет №2.md",
+    "Билет №3.md",
     "Билет №1.md",
+    "Картинки",
     "Картинки/Pasted image 20250512204535.png",
     "Картинки"
   ]
